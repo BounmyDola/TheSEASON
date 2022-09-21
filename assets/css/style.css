@@ -2205,6 +2205,7 @@ hr {
     font-size: 40px !important;
     display: flex;
     justify-content: center;
+    color: black !important;
 }
 .font-lao2
 {
@@ -2270,7 +2271,7 @@ hr {
   font-size: 99px;
   font-weight: 700;
   margin-bottom: 14px;
-  color: #fff;
+  color: black;
   font-family: "Playfair Display", serif;
   line-height: 1.2;
   text-transform: capitalize;
