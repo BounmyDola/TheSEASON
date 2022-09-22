@@ -2186,7 +2186,7 @@ hr {
 
 }
 .slider-area {
-  background-image: url(../img/jpg/p3.jpg);
+  background-image: url(../wd/hd1.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2201,11 +2201,11 @@ hr {
 }
 .font-lao1
 {
-    font-family: 'Phetsarath', sans-serif !important;
+      font-family: 'Times New Roman', Times, serif !important;
     font-size: 40px !important;
     display: flex;
     justify-content: center;
-    color: black !important;
+    color: white !important;
 }
 .font-lao2
 {
@@ -2271,7 +2271,7 @@ hr {
   font-size: 99px;
   font-weight: 700;
   margin-bottom: 14px;
-  color: black;
+  color: white;
   font-family: "Playfair Display", serif;
   line-height: 1.2;
   text-transform: capitalize;
